@@ -1,7 +1,7 @@
-# 🪟 Windows 12 Web
-- A fully interactive, browser-based clone of the Windows OS with some new design choices, smooth UI, and futuristic vibes—all in your browser.
+# 🪟 Windows 12 Web Concept
+- A fully interactive, browser-based OS UI simulator with some new design choices, smooth UI, and futuristic vibes—all in your browser.
 
-## 🚀 Features
+## Features
 - Boot & Lock Screen
 
 - Startup/shutdown animations with sound.
@@ -24,13 +24,13 @@
 
 - Screensaver: Idle-triggered “Windows 12” screensaver.
 
-- BSOD: Triggerable fake Blue Screen of Death for fun(orr... 😈).
+- BSOD: Triggerable fake Blue Screen of Death for fun.
 
 - Window Management: Drag, Resize, Maximize, Minimize and Close windows like the real one.
 
 - Immersive Sound Effects: UI interactions come alive with audio feedback.
 
-## ✨ What's New
+## What's New
 - Command Prompt: Execute basic commands, explore hidden responses.
 
 - Notepad App: Save, type, and feel the classic Notepad.
@@ -41,12 +41,12 @@
 
 - More Easter Eggs: Hidden surprises throughout the system.
 
-## 💡 Usage
+## Usage
 - Visit [This Website](https://windows-12-web.vercel.app/) to explore the OS(or a clone of an OS).
 
 💬 Password Hint: “First Four Natural Numbers”
 
-## 🖥️ Best Viewed On
+## Best Viewed On
 - Desktop or laptop (landscape)
 - Fullscreen mode
 
